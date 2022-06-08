@@ -1,0 +1,15 @@
+/Users/mariashiraeva/Desktop/HW8C#/Task_1/bin/Debug/net6.0/Task_1
+/Users/mariashiraeva/Desktop/HW8C#/Task_1/bin/Debug/net6.0/Task_1.deps.json
+/Users/mariashiraeva/Desktop/HW8C#/Task_1/bin/Debug/net6.0/Task_1.runtimeconfig.json
+/Users/mariashiraeva/Desktop/HW8C#/Task_1/bin/Debug/net6.0/Task_1.dll
+/Users/mariashiraeva/Desktop/HW8C#/Task_1/bin/Debug/net6.0/Task_1.pdb
+/Users/mariashiraeva/Desktop/HW8C#/Task_1/obj/Debug/net6.0/Task_1.csproj.AssemblyReference.cache
+/Users/mariashiraeva/Desktop/HW8C#/Task_1/obj/Debug/net6.0/Task_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariashiraeva/Desktop/HW8C#/Task_1/obj/Debug/net6.0/Task_1.AssemblyInfoInputs.cache
+/Users/mariashiraeva/Desktop/HW8C#/Task_1/obj/Debug/net6.0/Task_1.AssemblyInfo.cs
+/Users/mariashiraeva/Desktop/HW8C#/Task_1/obj/Debug/net6.0/Task_1.csproj.CoreCompileInputs.cache
+/Users/mariashiraeva/Desktop/HW8C#/Task_1/obj/Debug/net6.0/Task_1.dll
+/Users/mariashiraeva/Desktop/HW8C#/Task_1/obj/Debug/net6.0/refint/Task_1.dll
+/Users/mariashiraeva/Desktop/HW8C#/Task_1/obj/Debug/net6.0/Task_1.pdb
+/Users/mariashiraeva/Desktop/HW8C#/Task_1/obj/Debug/net6.0/Task_1.genruntimeconfig.cache
+/Users/mariashiraeva/Desktop/HW8C#/Task_1/obj/Debug/net6.0/ref/Task_1.dll
